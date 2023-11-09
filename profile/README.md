@@ -14,7 +14,7 @@
 
 # 🌟 Reinvent Client Management with Your Custom Solution
 
-**U-CMS** is not just a platform; it's **the foundation** on which you'll build your business empire. Imagine a strong base, enriched with **your own custom modules** 🧩. With U-CMS, create a solution that doesn't just meet your needs but anticipates them.
+**U-CMS** is not just a platform, it's **the foundation** on which you'll build your business empire. Imagine a strong base, enriched with **your own custom modules** 🧩. With U-CMS, create a solution that doesn't just meet your needs but anticipates them.
 
 ### 🚀 Why U-CMS is the Choice of Visionaries?
 
