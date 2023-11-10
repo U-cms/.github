@@ -4,7 +4,7 @@
   <img src="/images/image-top-header.png" alt="Illustration of U-CMS." />
 </p>
 
-# Links
+# 🔗 Links
 
 - ### [🌍 Website](https://u-cms.eu): Official website of U-cms.
 - ### [💖 Donate ](): SOON.
@@ -18,21 +18,21 @@
 
 ### 🚀 Why U-CMS is the Choice of Visionaries?
 
-- **Adapt and Conquer:** Every business has its signature. With U-CMS, your system evolves at the pace of your imagination. Add modules that speak your business language 🛠️.
+- 🛠️ **Adapt and Conquer:** Every business has its signature. With U-CMS, your system evolves at the pace of your imagination. Add modules that speak your business language.
 
-- **Strategic Automation:** Why settle for less when you can have more? Automate with modules that understand and execute your unique business processes 👥.
+- 👥 **Strategic Automation:** Why settle for less when you can have more? Automate with modules that understand and execute your unique business processes.
 
-- **Revamped Client Interaction:** U-CMS transforms how you manage client data. Unparalleled flexibility for unmatched client satisfaction 📊.
+- 📊 **Revamped Client Interaction:** U-CMS transforms how you manage client data. Unparalleled flexibility for unmatched client satisfaction.
 
-- **Synchronized Evolution:** U-CMS grows with you. Every new stage of your business is an opportunity to adapt and refine your system 🌱.
+- 🌱 **Synchronized Evolution:** U-CMS grows with you. Every new stage of your business is an opportunity to adapt and refine your system.
 
 ### 🔍 Key Features of U-CMS
 
-- **Intuitive, User-Friendly, Unmatched:** Start with a clean interface, then add modules for a system that works for you 💻.
+- 💻 **Intuitive, User-Friendly, Unmatched:** Start with a clean interface, then add modules for a system that works for you.
 
-- **A Bastion of Security:** Modules dedicated to data protection. Rest easy, knowing your business's security is unshakable 🔒.
+- 🔒 **A Bastion of Security:** Modules dedicated to data protection. Rest easy, knowing your business's security is unshakable.
 
-- **A Partnership for Innovation:** Develop your own modules or collaborate with our experts. U-CMS is more than a product; it's a growth partner 🤝.
+- 🤝 **A Partnership for Innovation:** Develop your own modules or collaborate with our experts. U-CMS is more than a product; it's a growth partner.
 
 ## 🚩 Get Started with U-CMS
 
