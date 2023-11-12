@@ -6,7 +6,7 @@
 
 # 🔗 Links
 
-- ### [🌍 Website](https://u-cms.eu): Official website of U-cms.
+- ### [🌍 Website](https://u-cms.eu)
 - ### [💖 Donate ](): SOON.
 - ### [😎 Contributing to Revolt](): SOON.
 - ### [🔧 Developer Documentation](): SOON.
