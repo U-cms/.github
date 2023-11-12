@@ -10,7 +10,7 @@
 - ### [💖 Donate ](): SOON.
 - ### [😎 Contributing to Revolt](): SOON.
 - ### [🔧 Developer Documentation](): SOON.
-- ### [🕓 Roadmap](https://u-cms.notion.site/bc6332f7851c4322abd886e1b8762a56?v=9f0dcf146f9543ea9aee606bfbbfc448&pvs=4).
+- ### [🕓 Roadmap](https://u-cms.notion.site/bc6332f7851c4322abd886e1b8762a56?v=9f0dcf146f9543ea9aee606bfbbfc448&pvs=4)
 
 # 🌟 Reinvent Client Management with Your Custom Solution
 
